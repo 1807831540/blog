@@ -2,7 +2,7 @@
 
 namespace Evan\MyWork\Http\Controllers;
 
-use App\Admin\Repositories\Test;
+use Evan\MyWork\Repositories\Test;
 use Dcat\Admin\Form;
 use Dcat\Admin\Grid;
 use Dcat\Admin\Show;
