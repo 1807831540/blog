@@ -13,5 +13,7 @@ return [
         'extensions'    => '扩展',
         'scaffold'      => '代码生成器',
         'icons'         => '图标',
+
+        'my_work'       => '工作',
     ],
 ];
